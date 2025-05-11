@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "identity_900",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_900.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.5, 2421.5], [2422.0, 2462.0], [2431.5, 2432.5], [2467.0, 2469.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_901",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_901.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2422.0, 2442.0], [2453.0, 2455.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_902",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_902.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2425.0, 2427.0], [2425.5, 2426.5], [2430.875, 2431.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_903",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_903.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2403.0, 2405.0], [2405.0, 2407.0], [2437.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_904",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_904.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2432.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_905",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_905.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2417.0, 2457.0], [2429.875, 2430.125], [2435.5, 2436.5], [2456.0, 2458.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_906",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_906.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2412.0, 2432.0], [2439.875, 2440.125], [2467.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_907",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_907.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2432.0, 2472.0], [2442.0, 2482.0], [2443.5, 2444.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_908",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_908.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2422.0], [2402.0, 2422.0], [2452.0, 2472.0], [2471.0, 2473.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_909",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_909.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2417.0], [2432.0, 2442.0], [2452.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_910",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_910.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2424.875, 2425.125], [2442.0, 2482.0], [2449.875, 2450.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_911",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_911.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2414.875, 2415.125], [2421.0, 2423.0], [2425.0, 2427.0], [2442.0, 2462.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_912",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_912.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2403.5, 2404.5], [2443.9, 2444.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_913",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_913.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2433.5, 2434.5], [2466.875, 2467.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_914",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_914.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2447.0], [2437.0, 2439.0], [2472.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_915",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_915.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2431.875, 2432.125], [2432.0, 2472.0], [2437.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_916",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_916.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2422.0, 2432.0], [2435.5, 2436.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_917",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_917.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2427.0], [2412.0, 2452.0], [2452.0, 2462.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_918",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_918.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2461.0, 2463.0], [2471.9, 2472.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_919",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_919.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2461.0, 2463.0], [2473.5, 2474.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_920",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_920.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2411.0, 2413.0], [2456.0, 2458.0], [2475.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_921",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_921.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2437.0, 2457.0], [2451.0, 2453.0], [2461.875, 2462.125], [2477.5, 2478.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_922",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_922.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2427.0], [2416.0, 2418.0], [2463.875, 2464.125], [2472.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_923",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_923.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2442.0], [2407.0, 2427.0], [2407.0, 2427.0], [2457.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_924",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_924.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2413.875, 2414.125], [2419.5, 2420.5], [2424.875, 2425.125], [2437.9, 2438.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_925",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_925.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.5, 2421.5], [2422.0, 2462.0], [2431.5, 2432.5], [2467.0, 2469.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_926",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_926.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.0, 2452.0], [2454.875, 2455.125], [2461.5, 2462.5], [2476.0, 2478.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_927",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_927.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2409.9, 2410.1], [2415.9, 2416.1], [2452.9, 2453.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_928",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_928.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2409.9, 2410.1], [2417.0, 2457.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_929",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_929.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.9, 2421.1], [2439.0, 2441.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_930",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_930.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2422.0, 2462.0], [2471.9, 2472.1], [2472.9, 2473.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_931",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_931.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.0, 2432.0], [2422.0, 2432.0], [2422.0, 2442.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_932",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_932.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2450.875, 2451.125], [2467.0, 2477.0], [2474.875, 2475.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_933",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_933.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2432.0, 2472.0], [2432.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_934",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_934.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2433.9, 2434.1], [2479.0, 2481.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_935",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_935.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2425.0, 2427.0], [2445.0, 2447.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_936",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_936.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2417.0, 2437.0], [2461.0, 2463.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_937",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_937.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.0, 2403.0], [2427.0, 2467.0], [2469.5, 2470.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_938",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_938.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.5, 2421.5], [2422.0, 2462.0], [2431.5, 2432.5], [2467.0, 2469.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_939",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_939.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2415.0, 2417.0], [2432.0, 2472.0], [2461.0, 2463.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_940",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_940.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2419.9, 2420.1], [2441.9, 2442.1], [2477.0, 2479.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_941",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_941.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2437.0, 2439.0], [2457.0, 2477.0], [2470.5, 2471.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_942",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_942.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2412.0, 2452.0], [2422.0, 2432.0], [2429.875, 2430.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_943",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_943.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2431.875, 2432.125], [2437.9, 2438.1], [2451.0, 2453.0], [2473.5, 2474.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_944",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_944.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2400.875, 2401.125], [2401.875, 2402.125], [2457.5, 2458.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_945",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_945.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.0, 2432.0], [2471.0, 2473.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_946",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_946.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.0, 2403.0], [2429.5, 2430.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_947",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_947.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2417.0, 2457.0], [2422.0, 2432.0], [2426.0, 2428.0], [2474.875, 2475.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_948",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_948.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2433.5, 2434.5], [2447.5, 2448.5], [2474.875, 2475.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_949",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_949.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2436.0, 2438.0], [2437.0, 2447.0], [2446.0, 2448.0], [2456.0, 2458.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_950",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_950.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2409.5, 2410.5], [2415.0, 2417.0], [2441.9, 2442.1], [2467.5, 2468.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_951",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_951.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2431.0, 2433.0], [2447.0, 2467.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_952",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_952.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.9, 2421.1], [2459.875, 2460.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_953",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_953.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2432.0, 2442.0], [2444.875, 2445.125], [2446.875, 2447.125], [2471.875, 2472.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_954",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_954.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2417.0], [2432.0, 2442.0], [2455.5, 2456.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_955",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_955.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2417.0], [2412.0, 2452.0], [2452.9, 2453.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_956",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_956.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2448.9, 2449.1], [2474.9, 2475.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_957",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_957.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2462.0, 2472.0], [2462.0, 2482.0], [2477.0, 2479.0], [2480.9, 2481.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_958",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_958.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2422.0, 2462.0], [2442.0, 2452.0], [2442.0, 2452.0], [2462.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_959",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_959.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.875, 2413.125], [2466.0, 2468.0], [2467.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_960",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_960.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2422.0], [2410.875, 2411.125], [2427.0, 2437.0], [2435.875, 2436.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_961",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_961.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2409.0], [2435.875, 2436.125], [2460.9, 2461.1], [2475.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_962",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_962.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2451.0, 2453.0], [2457.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_963",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_963.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2405.875, 2406.125], [2417.0, 2457.0], [2443.875, 2444.125], [2462.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_964",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_964.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2409.0], [2466.9, 2467.1], [2471.0, 2473.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_965",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_965.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2418.875, 2419.125], [2432.9, 2433.1], [2439.875, 2440.125], [2457.0, 2467.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_966",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_966.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2420.5, 2421.5], [2422.0, 2462.0], [2431.5, 2432.5], [2467.0, 2469.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_967",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_967.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2403.0, 2405.0], [2417.0, 2427.0], [2422.5, 2423.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_968",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_968.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.0, 2403.0], [2416.0, 2418.0], [2452.0, 2462.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_969",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_969.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2406.0, 2408.0], [2407.0, 2447.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_970",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_970.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2447.0], [2411.0, 2413.0], [2437.0, 2477.0], [2447.0, 2467.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_971",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_971.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2431.5, 2432.5], [2473.875, 2474.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_972",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_972.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2412.0], [2427.0, 2447.0], [2441.0, 2443.0], [2452.0, 2462.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_973",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_973.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2446.0, 2448.0], [2472.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_974",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_974.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2415.9, 2416.1], [2417.0, 2437.0], [2427.0, 2467.0], [2465.0, 2467.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_975",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_975.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2422.0, 2462.0], [2427.0, 2467.0], [2432.875, 2433.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_976",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_976.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2405.0, 2407.0], [2422.0, 2432.0], [2432.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_977",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_977.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2421.0, 2423.0], [2451.5, 2452.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_978",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_978.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.875, 2408.125], [2423.5, 2424.5], [2436.875, 2437.125], [2452.0, 2462.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_979",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_979.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2400.875, 2401.125], [2442.0, 2452.0], [2455.875, 2456.125], [2471.0, 2473.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_980",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_980.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2427.0], [2421.0, 2423.0], [2437.0, 2447.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_981",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_981.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2438.9, 2439.1], [2449.0, 2451.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_982",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_982.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2449.5, 2450.5], [2469.875, 2470.125], [2471.0, 2473.0], [2479.0, 2481.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_983",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_983.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.0, 2403.0], [2447.875, 2448.125], [2456.0, 2458.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_984",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_984.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2406.0, 2408.0], [2429.0, 2431.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_985",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_985.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2415.5, 2416.5], [2466.875, 2467.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_986",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_986.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2409.0, 2411.0], [2411.0, 2413.0], [2452.0, 2462.0], [2457.0, 2467.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_987",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_987.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.9, 2413.1], [2439.0, 2441.0], [2445.0, 2447.0], [2458.9, 2459.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_988",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_988.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2409.5, 2410.5], [2413.0, 2415.0], [2426.0, 2428.0], [2452.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_989",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_989.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2425.0, 2427.0], [2431.0, 2433.0], [2442.0, 2462.0], [2452.0, 2472.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_990",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_990.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2432.0, 2452.0], [2453.5, 2454.5]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_991",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_991.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2412.0, 2422.0], [2429.0, 2431.0], [2443.875, 2444.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_992",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_992.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2411.0, 2413.0], [2442.0, 2462.0], [2445.0, 2447.0], [2467.0, 2469.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_993",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_993.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2407.0, 2417.0], [2440.875, 2441.125]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_994",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_994.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2429.9, 2430.1], [2437.0, 2477.0], [2457.0, 2477.0], [2457.0, 2477.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_995",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_995.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2402.0, 2442.0], [2423.0, 2425.0], [2442.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_996",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_996.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.9, 2402.1], [2410.9, 2411.1]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_997",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_997.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2417.0, 2457.0], [2435.0, 2437.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_998",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_998.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2432.0, 2472.0], [2462.0, 2482.0]]"
+      }
+    ]
+  },
+  {
+    "id": "identity_999",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<|vision_start|>/home/hbw/Code/airadio2025/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_999.png<|vision_end|>\n## 描述\n\n这是一张 IQ 采样数据的可视化图片，表示在2400 MHz到2500 MHz频段内以100 MS/s采样率采集的信号。该频段内存在多个信号（2到4个）。这些信号可能频域上存在重叠，表示信号之间的干扰。\n\n## 任务\n\n1. 请观察图片，一步步地推导出占用频段的区间范围\n2. 请考虑占用区间不在图中标注出来的数字\n3. 占用频段的区间范围是指在2400 MHz – 2483.5 MHz范围内，信号的频率范围\n4. 按照 [[start_0, end_0], [start_1, end_1], ..., [start_n, end_n]] 的格式输出结果\n"
+      },
+      {
+        "from": "assistant",
+        "value": "[[2401.0, 2403.0], [2425.5, 2426.5], [2457.5, 2458.5], [2461.0, 2463.0]]"
+      }
+    ]
+  }
+]

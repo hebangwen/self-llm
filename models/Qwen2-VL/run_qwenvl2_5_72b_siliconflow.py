@@ -110,7 +110,7 @@ def run_qwenvl2_5_72b_siliconflow(image_dir, prompt, output_dir):
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     output_file = os.path.join(output_dir, f"output_{timestamp}.json")
     with open(output_file, 'w') as f:
-        json.dump(output, f, indent=4)
+        json.dump(output, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":

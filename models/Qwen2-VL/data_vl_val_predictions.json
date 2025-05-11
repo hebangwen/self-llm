@@ -1,0 +1,402 @@
+[
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_900.png",
+        "prediction": "[[2422.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_901.png",
+        "prediction": "[[2427.0, 2437.0], [2432.0, 2452.0], [2442.0, 2452.0], [2452.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_902.png",
+        "prediction": "[[2427.0, 2429.0], [2432.0, 2442.0], [2432.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_903.png",
+        "prediction": "[[2407.0, 2417.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_904.png",
+        "prediction": "[[2407.0, 2417.0], [2412.0, 2452.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_905.png",
+        "prediction": "[[2432.0, 2452.0], [2456.0, 2458.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_906.png",
+        "prediction": "[[2412.0, 2422.0], [2427.0, 2467.0], [2442.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_907.png",
+        "prediction": "[[2402.0, 2412.0], [2442.0, 2452.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_908.png",
+        "prediction": "[[2402.0, 2412.0], [2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_909.png",
+        "prediction": "[[2412.0, 2422.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_910.png",
+        "prediction": "[[2442.0, 2462.0], [2447.0, 2467.0], [2462.0, 2472.0], [2476.0, 2478.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_911.png",
+        "prediction": "[[2422.0, 2462.0], [2427.0, 2467.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_912.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_913.png",
+        "prediction": "[[2432.0, 2442.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_914.png",
+        "prediction": "[[2436.0, 2438.0], [2442.0, 2452.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_915.png",
+        "prediction": "[[2442.0, 2452.0], [2452.0, 2472.0], [2462.0, 2472.0], [2467.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_916.png",
+        "prediction": "[[2436.0, 2438.0], [2437.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_917.png",
+        "prediction": "[[2422.0, 2462.0], [2452.0, 2462.0], [2456.0, 2458.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_918.png",
+        "prediction": "[[2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_919.png",
+        "prediction": "[[2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_920.png",
+        "prediction": "[[2456.0, 2458.0], [2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_921.png",
+        "prediction": "[[2452.0, 2462.0], [2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_922.png",
+        "prediction": "[[2412.0, 2422.0], [2416.0, 2418.0], [2422.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_923.png",
+        "prediction": "[[2412.0, 2422.0], [2422.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_924.png",
+        "prediction": "[[2436.0, 2438.0], [2442.0, 2452.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_925.png",
+        "prediction": "[[2422.0, 2432.0], [2462.0, 2472.0], [2468.9, 2469.1]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_926.png",
+        "prediction": "[[2422.0, 2432.0], [2462.0, 2472.0], [2476.0, 2486.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_927.png",
+        "prediction": "[[2412.0, 2422.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_928.png",
+        "prediction": "[[2412.0, 2422.0], [2417.0, 2457.0], [2457.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_929.png",
+        "prediction": "[[2422.0, 2442.0], [2442.0, 2462.0], [2447.0, 2457.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_930.png",
+        "prediction": "[[2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_931.png",
+        "prediction": "[[2422.0, 2442.0], [2427.0, 2467.0], [2432.0, 2472.0], [2442.0, 2452.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_932.png",
+        "prediction": "[[2452.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_933.png",
+        "prediction": "[[2447.0, 2457.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_934.png",
+        "prediction": "[[2432.0, 2442.0], [2436.0, 2438.0], [2476.0, 2478.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_935.png",
+        "prediction": "[[2427.0, 2429.0], [2442.0, 2452.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_936.png",
+        "prediction": "[[2462.0, 2464.0], [2467.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_937.png",
+        "prediction": "[[2402.0, 2412.0], [2442.0, 2452.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_938.png",
+        "prediction": "[[2422.0, 2462.0], [2462.0, 2472.0], [2468.9, 2469.1]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_939.png",
+        "prediction": "[[2416.0, 2418.0], [2460.9, 2461.1]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_940.png",
+        "prediction": "[[2402.0, 2412.0], [2442.0, 2452.0], [2447.0, 2457.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_941.png",
+        "prediction": "[[2436.0, 2438.0], [2467.0, 2477.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_942.png",
+        "prediction": "[[2412.0, 2422.0], [2432.0, 2452.0], [2442.0, 2452.0], [2452.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_943.png",
+        "prediction": "[[2432.0, 2442.0], [2436.0, 2438.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_944.png",
+        "prediction": "[[2402.0, 2412.0], [2456.0, 2466.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_945.png",
+        "prediction": "[[2412.0, 2422.0], [2427.0, 2467.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_946.png",
+        "prediction": "[[2402.0, 2412.0], [2427.0, 2467.0], [2432.0, 2442.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_947.png",
+        "prediction": "[[2427.0, 2437.0], [2447.0, 2457.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_948.png",
+        "prediction": "[[2432.0, 2442.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_949.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0], [2456.0, 2458.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_950.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_951.png",
+        "prediction": "[[2432.0, 2452.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_952.png",
+        "prediction": "[[2422.0, 2462.0], [2460.9, 2461.1]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_953.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_954.png",
+        "prediction": "[[2432.0, 2442.0], [2442.0, 2452.0], [2456.0, 2458.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_955.png",
+        "prediction": "[[2452.0, 2462.0], [2457.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_956.png",
+        "prediction": "[[2412.0, 2452.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_957.png",
+        "prediction": "[[2412.0, 2422.0], [2476.0, 2478.0], [2477.0, 2487.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_958.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0], [2452.0, 2472.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_959.png",
+        "prediction": "[[2462.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_960.png",
+        "prediction": "[[2412.0, 2422.0], [2432.0, 2472.0], [2436.0, 2438.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_961.png",
+        "prediction": "[[2436.0, 2438.0], [2460.9, 2461.1]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_962.png",
+        "prediction": "[[2402.0, 2412.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_963.png",
+        "prediction": "[[2417.0, 2427.0], [2462.0, 2482.0], [2467.0, 2477.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_964.png",
+        "prediction": "[[2462.0, 2472.0], [2467.0, 2477.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_965.png",
+        "prediction": "[[2456.0, 2466.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_966.png",
+        "prediction": "[[2421.0, 2423.0], [2467.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_967.png",
+        "prediction": "[[2422.0, 2462.0], [2427.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_968.png",
+        "prediction": "[[2416.0, 2418.0], [2456.0, 2466.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_969.png",
+        "prediction": "[[2407.0, 2417.0], [2442.0, 2482.0], [2447.0, 2487.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_970.png",
+        "prediction": "[[2412.0, 2422.0], [2442.0, 2452.0], [2447.0, 2467.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_971.png",
+        "prediction": "[[2432.0, 2442.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_972.png",
+        "prediction": "[[2402.0, 2412.0], [2442.0, 2452.0], [2447.0, 2457.0], [2457.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_973.png",
+        "prediction": "[[2447.0, 2487.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_974.png",
+        "prediction": "[[2462.0, 2464.0], [2467.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_975.png",
+        "prediction": "[[2427.0, 2447.0], [2442.0, 2462.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_976.png",
+        "prediction": "[[2407.0, 2417.0], [2427.0, 2467.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_977.png",
+        "prediction": "[[2422.0, 2462.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_978.png",
+        "prediction": "[[2422.0, 2462.0], [2452.0, 2462.0], [2456.0, 2466.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_979.png",
+        "prediction": "[[2452.0, 2454.0], [2456.0, 2458.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_980.png",
+        "prediction": "[[2412.0, 2422.0], [2442.0, 2452.0], [2447.0, 2457.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_981.png",
+        "prediction": "[[2442.0, 2452.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_982.png",
+        "prediction": "[[2417.0, 2427.0], [2452.0, 2472.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_983.png",
+        "prediction": "[[2447.0, 2457.0], [2456.0, 2458.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_984.png",
+        "prediction": "[[2427.0, 2437.0], [2432.0, 2442.0], [2432.0, 2472.0], [2432.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_985.png",
+        "prediction": "[[2416.0, 2418.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_986.png",
+        "prediction": "[[2412.0, 2422.0], [2456.0, 2466.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_987.png",
+        "prediction": "[[2412.0, 2422.0], [2456.0, 2466.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_988.png",
+        "prediction": "[[2412.0, 2422.0], [2452.0, 2462.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_989.png",
+        "prediction": "[[2442.0, 2452.0], [2456.0, 2466.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_990.png",
+        "prediction": "[[2432.0, 2442.0], [2442.0, 2452.0], [2452.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_991.png",
+        "prediction": "[[2442.0, 2452.0], [2447.0, 2467.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_992.png",
+        "prediction": "[[2442.0, 2452.0], [2462.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_993.png",
+        "prediction": "[[2412.0, 2422.0], [2442.0, 2452.0], [2447.0, 2457.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_994.png",
+        "prediction": "[[2427.0, 2467.0], [2462.0, 2472.0], [2467.0, 2477.0], [2472.0, 2482.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_995.png",
+        "prediction": "[[2422.0, 2462.0], [2427.0, 2467.0], [2452.0, 2472.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_996.png",
+        "prediction": "[[2412.0, 2422.0], [2417.0, 2457.0], [2422.0, 2462.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_997.png",
+        "prediction": "[[2432.0, 2442.0], [2442.0, 2452.0], [2447.0, 2457.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_998.png",
+        "prediction": "[[2402.0, 2412.0], [2452.0, 2472.0], [2462.0, 2472.0], [2467.0, 2477.0]]"
+    },
+    {
+        "image_path": "/Users/hebangwen/Code/self-llm/models/Qwen2-VL/airadio/train_1k/images/val/spectrum_999.png",
+        "prediction": "[[2412.0, 2422.0], [2456.0, 2466.0], [2462.0, 2472.0]]"
+    }
+]
